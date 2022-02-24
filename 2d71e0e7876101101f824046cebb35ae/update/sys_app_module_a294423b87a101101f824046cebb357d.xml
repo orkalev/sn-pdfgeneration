@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="PDF Template">38c3ceb787a101101f824046cebb35fa</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter table="x_684094_pdf_filla_pdf_template">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
@@ -17,14 +18,17 @@
         <name>x_684094_pdf_filla_pdf_template</name>
         <order>90</order>
         <override_menu_roles>false</override_menu_roles>
+        <paas_active>false</paas_active>
         <query/>
         <report/>
         <roles/>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>alberto.colombo</sys_created_by>
         <sys_created_on>2022-02-15 10:35:05</sys_created_on>
         <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
-        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_domain_path/>
         <sys_id>a294423b87a101101f824046cebb357d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Active</sys_name>
